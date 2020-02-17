@@ -1,4 +1,3 @@
-export addGift = (state, id, description) = {
-
+export const addGift = (state: any, id: string, description: string) => {
     return state
 }
